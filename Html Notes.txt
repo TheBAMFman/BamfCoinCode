@@ -1,0 +1,43 @@
+Elements can nest inside eachother
+opening       closing tag
+<p>           </p>
+
+Elements can nest inside eachother
+6 different levels of headlines
+<h1>
+<h6>
+
+2 italics
+<em>
+<i>
+
+2 Bold
+<strong>
+<b>
+
+list item
+<li>
+unordered list
+<ul>
+ordered list
+<ol>
+definition list
+<dl>
+term
+<dt>
+definition
+<dd>
+
+quote
+<q>
+
+Inline Elements 
+<q>, <strong>, <b>, <i>, <em>
+
+Block-level Elements
+<blockquote>,<p>, <ul>
+
+<time>any form of time</time>
+
+<elementname attributename ="" >
+<time datetime="2025-05-08">8 May 2025</time>
